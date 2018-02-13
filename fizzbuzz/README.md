@@ -9,6 +9,7 @@ Description:
 - if the value of N is evenly divisible by 3, then output N and the word "Fizz"
 - if the value of N is evenly divisible by 5, then output N and the word "Buzz"
 - and when N is divisible by 3 and 5, output N and "FizzBuzz"
+
 Eg.
 - When n = 6, output "Fizz"
 - When n = 10, output "Buzz"
