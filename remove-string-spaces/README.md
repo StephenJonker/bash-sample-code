@@ -1,5 +1,3 @@
-# bash-sample-code
-
 ## Remove string spaces
 
 ### Description:
