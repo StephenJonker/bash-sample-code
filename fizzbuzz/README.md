@@ -5,9 +5,9 @@
   software developers
 - The program is supposed to display the integer values of "N" between 1 and 100
 - Except in the following cases...
--- if the value of N is evenly divisible by 3, then output N and the word "Fizz"
--- if the value of N is evenly divisible by 5, then output N and the word "Buzz"
--- and when N is divisible by 3 and 5, output N and "FizzBuzz"
+- if the value of N is evenly divisible by 3, then output N and the word "Fizz"
+- if the value of N is evenly divisible by 5, then output N and the word "Buzz"
+- and when N is divisible by 3 and 5, output N and "FizzBuzz"
 
 ## Eg.
 - When n = 6, output "Fizz"
