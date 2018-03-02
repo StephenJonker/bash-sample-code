@@ -1,6 +1,6 @@
 # HackerRank Bash Final Challenge
 
-### Tress and ASCII Art 
+### Trees and ASCII Art 
 
 - Final Challenge in HackerRank Bash Practice series
 
@@ -17,10 +17,12 @@ Problem:
 - Repeat this for up to 5 interations.
 - The output is on a 63 x 100 grid and uses underscores and "1" characters 
 
-- Useage: echo "3" | bash ascii-tree-art.sh 
+Useage: echo "3" | bash ascii-tree-art.sh 
+
 - Input: values between 1 and 5, via the echo command 
 
-- Note: 
+Note: 
+
 - Although "bash" has come alone way since the early days of Bourne Shell this 
 example shows why another languange choice like Python might have been better.
 
